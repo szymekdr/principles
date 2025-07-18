@@ -18,3 +18,4 @@ Two worked examples demonstrating how to apply the four principles for improved 
   - HTML output - [code/bird_example.html](https://gordy2x.github.io/principles/code/bird_example.html)
   - PDF output - [code/bird_example.pdf](code/bird_example.pdf)
  
+Research funded by the Polish National Science Centre, grant agreement no. UMO-2020/39/B/NZ8/01274
